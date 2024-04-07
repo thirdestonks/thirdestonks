@@ -15,7 +15,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">ThirdeStonkers</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/thirde-aguilera-1224931b1/">ThirdeStonkers</a></b>
         </samp>
 </h3>
 
