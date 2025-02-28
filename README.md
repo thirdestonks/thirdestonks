@@ -56,7 +56,12 @@
  📧 &emsp; Reach me anytime: thirdeaguilera@gmail.com<br/><br/>
 
 </p>
+Recent Project:
+FE
 <a href="https://wakatime.com/badge/user/a1868d43-babc-4a19-955c-fb4270cf39d1/project/64a12dc3-8f16-4334-b60f-350d82095552"><img src="https://wakatime.com/badge/user/a1868d43-babc-4a19-955c-fb4270cf39d1/project/64a12dc3-8f16-4334-b60f-350d82095552.svg" alt="wakatime"></a>
+  <br/>
+BE
+  <a href="https://wakatime.com/badge/user/a1868d43-babc-4a19-955c-fb4270cf39d1/project/86628e87-ab4a-4f1c-bb65-f9e4925c2edd"><img src="https://wakatime.com/badge/user/a1868d43-babc-4a19-955c-fb4270cf39d1/project/86628e87-ab4a-4f1c-bb65-f9e4925c2edd.svg" alt="wakatime"></a>
 <br/>
 <br/>
 <br/>
